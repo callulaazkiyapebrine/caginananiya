@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2JKYSKy2IA=",
+  "success": true,
+  "projectFilePath": "C:\\kelgis\\kelgis\\kelgis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Java Computer\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Java Computer\\.nuget\\packages\\qrcoder\\1.7.0\\qrcoder.1.7.0.nupkg.sha512",
+    "C:\\Users\\Java Computer\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
